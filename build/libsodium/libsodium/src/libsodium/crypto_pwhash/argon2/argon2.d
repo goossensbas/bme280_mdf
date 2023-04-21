@@ -1,0 +1,18 @@
+libsodium/src/libsodium/crypto_pwhash/argon2/argon2.o: \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/utils.h \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.h \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.h \
+ /home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.h
+
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/utils.h:
+
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h:
+
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.h:
+
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.h:
+
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.h:
+/home/pi/esp/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c:

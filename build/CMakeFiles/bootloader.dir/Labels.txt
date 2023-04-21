@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader
-/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader.rule
-/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader-complete.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader
+/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader.rule
+/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader-complete.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

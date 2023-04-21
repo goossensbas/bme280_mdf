@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/bas/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/pi/esp/projects/bme280_mdf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		}
 	],
 	"target" : 
