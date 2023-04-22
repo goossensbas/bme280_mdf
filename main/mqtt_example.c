@@ -302,7 +302,7 @@ static void bme_write_task(void *arg)
             if (com_rslt == SUCCESS)
             {
                 double temp = bme280_compensate_temperature_double(v_uncomp_temperature_s32);
-                double humidity = bme280_compensate_humidity_double(v_uncomp_humidity_s32);
+                double humidity = bme280_compensate_humidity_double(v_uncomp_humidity_s32) / 10;
                 double pressure = bme280_compensate_pressure_double(v_uncomp_pressure_s32) / 100; // Pa -> hPa
                 ESP_LOGI(TAG_BME280, "%.2f degC / %.3f hPa / %.3f %%", temp, humidity, pressure);
 
